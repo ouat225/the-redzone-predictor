@@ -1,6 +1,6 @@
 # NFL Offense Analytics (2005–2024) — projet Data Analyst (Python)
 
-Projet *end-to-end* basé sur un dataset que tu as scrapé (stats d'attaque NFL par équipe et par saison, 2005→2024).
+Projet *end-to-end* basé sur un dataset scrapé (stats d'attaque NFL par équipe et par saison, 2005→2024).
 L'objectif est de montrer un workflow réaliste de Data Analyst : **nettoyage**, **feature engineering**, **EDA**, **modélisation**, **reproductibilité**, **tests**, et une **mini-app Streamlit**.
 
 ---
